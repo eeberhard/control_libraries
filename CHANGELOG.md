@@ -9,6 +9,7 @@ Release Versions:
 
 - Preserve emptiness upon copy construction (#152)
 - Use release configuration in install script (#155)
+- Add emtpy constructors for Circular and Ring DS (#153)
 
 ## 3.0.0
 
